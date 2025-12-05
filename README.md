@@ -20,6 +20,8 @@ and the final look:
 
 <img width="766" height="548" alt="Screenshot 2025-12-05 212351" src="https://github.com/user-attachments/assets/e93fd30e-8e9d-41b7-a7d6-071bce04ee39" />
 
+
+
 for the project, you'll need:
 1x SEEED XIAO RP2040-DIP
 1x EC11 Rotary encoder switch

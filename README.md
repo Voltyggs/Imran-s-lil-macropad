@@ -1,7 +1,7 @@
 # Imran-s-lil-macropad
 
 Hiya! 
-i'm Imran Ahhmed, and this is my Hack/MacroPad submission for the blueprint program
+i'm Imran Ahmed, and this is my Hack/MacroPad submission for the blueprint program
 
 here, I made a macropad with the SEEED XIAO RP3040 DIP as the microcontroller, 2 MINI-LEDs, 7 Cherry MX switches n keycaps, and a EC11 rotary encoder switch.
 

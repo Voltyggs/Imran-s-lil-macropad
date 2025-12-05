@@ -22,9 +22,11 @@ and the final look:
 
 
 
-for the project, you'll need:
-1x SEEED XIAO RP2040-DIP
-1x EC11 Rotary encoder switch
-2x SK6812 MINI-E LEDs
-7x cherry MX swwitches
-7x keycaps for the Cherry MX switches
+for the project, you'll need: <br />
+<br />
+1x SEEED XIAO RP2040-DIP <br />
+1x EC11 Rotary encoder switch <br />
+4x M3x16mm screws 
+2x SK6812 MINI-E LEDs <br />
+7x cherry MX swwitches <br />
+7x keycaps for the Cherry MX switches <br />
